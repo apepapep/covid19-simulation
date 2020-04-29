@@ -1,5 +1,6 @@
 # covid19-simulation
 Tugas Besar ini diajukan untuk memenuhi mata kuliah Permodelan dan Simulasi
+
 Anggota Kelompok :
 - Dimas Bayu Nugraha
 - Muhammad Rafif
